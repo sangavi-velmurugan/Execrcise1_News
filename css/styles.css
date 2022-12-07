@@ -1,0 +1,168 @@
+
+body{
+  margin-left: 150px;
+  margin-right: 150px;
+  font-family: sans-serif;
+}
+.top-container{
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+.logo{
+display: inline-block;
+}
+.shortcuts{
+  float: right;
+
+  margin-left: 30%;
+  margin-top: 15px;
+}
+a{
+  text-decoration: none;
+  margin: 10px 20px;
+}
+a:hover{
+  color: #A8A4CE;
+}
+.middle-left-container{
+  width: 60%;
+  display: inline-block;
+
+}
+.page-viewlayout{
+  display: inline-block;
+  width: 100%;
+  height: 300px;
+  margin: 0;
+}
+
+.page_view{
+  width:100%;
+  position: relative;
+  margin: 0;
+  height: inherit;
+}
+.middle-right-container{
+  float: right;
+  width: 35%;
+
+  color: White;
+  background-color: #100720;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.Parts{
+  padding-bottom: 10px;
+}
+.part1{
+  padding-bottom: 10px;
+}
+.part2{
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+.part3{
+  padding-top: 10px;
+}
+  h2{
+    color: #BF9742;
+  }
+
+.middle-container{
+  margin-top: 0;
+  display: inline-block;
+  position: relative;
+}
+.heading{
+  width: 30%;
+  display: inline-block;
+}
+.content{
+  float:right;
+  margin-top: 15px;
+  width: 65%;
+  margin-left: 20px;
+
+}
+.btn {
+  background: #b81a2f;
+  background-image: -webkit-linear-gradient(top, #b81a2f, #d12c42);
+  background-image: -moz-linear-gradient(top, #b81a2f, #d12c42);
+  background-image: -ms-linear-gradient(top, #b81a2f, #d12c42);
+  background-image: -o-linear-gradient(top, #b81a2f, #d12c42);
+  background-image: linear-gradient(to bottom, #b81a2f, #d12c42);
+  -webkit-border-radius: 2;
+  -moz-border-radius: 2;
+  border-radius: 2px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin: auto;
+}
+
+.btn:hover {
+  background: #e35858;
+  background-image: -webkit-linear-gradient(top, #e35858, #e66363);
+  background-image: -moz-linear-gradient(top, #e35858, #e66363);
+  background-image: -ms-linear-gradient(top, #e35858, #e66363);
+  background-image: -o-linear-gradient(top, #e35858, #e66363);
+  background-image: linear-gradient(to bottom, #e35858, #e66363);
+  text-decoration: none;
+}
+.bottom-container{
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+.PC_image{
+  float: left;
+  width: 30%;
+  padding-right: 10px;
+  margin-top: 15px;
+}
+.PC{
+  width: 30%;
+  display: inline-block;
+}
+.Laptop_image{
+  float: left;
+  width: 30%;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-top: 15px;
+}
+.Laptop{
+  width: 30%;
+  display: inline-block;
+}
+.Game_image{
+  float: left;
+  width: 30%;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-top: 15px;
+}
+.Game{
+  width: 30%;
+  display: inline-block;
+}
+p{
+  font-weight: lighter;
+  font-size: 12px;
+  color: grey;
+  line-height: 18px;
+}
+.One{
+  color: grey;
+}
+.Two{
+  color: grey;
+}
+.Three{
+  color: grey;
+}
+h4{
+  font-size: 12px;
+  font-weight: bolder;
+}
